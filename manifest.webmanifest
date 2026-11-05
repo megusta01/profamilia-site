@@ -1,0 +1,16 @@
+{
+  "name": "Pró-Família — Assistência Familiar",
+  "short_name": "Pró-Família",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
